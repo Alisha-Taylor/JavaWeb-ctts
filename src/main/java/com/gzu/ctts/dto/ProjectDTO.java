@@ -4,8 +4,7 @@ package com.gzu.ctts.dto;
 public class ProjectDTO {
 
 
-    private Integer page;
-
+    
     private Integer size;
 
 
